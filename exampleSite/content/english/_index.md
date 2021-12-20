@@ -2,9 +2,7 @@
 banner:
   title: Series A For Everyone
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: Welcome to the world's first crowdsourced venture capitalist platform.
   button:
     enable: true
     label: Contact Us
