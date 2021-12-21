@@ -2,7 +2,7 @@
 banner:
   title: Series A For Everyone
   image: images/banner-art.svg
-  content: Welcome to the world's first crowdsourced venture capitalist platform.
+  content: Welcome to the world's first crowdsourced venture capital platform.
   button:
     enable: true
     label: Contact Us
