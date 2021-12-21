@@ -11,9 +11,6 @@ feature:
   enable: true
   title: Something You Need To Know
   feature_item:
-  - name: Clean Code
-    icon: fas fa-code
-    content: fake
   - name: Object Oriented
     icon: fas fa-object-group
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
