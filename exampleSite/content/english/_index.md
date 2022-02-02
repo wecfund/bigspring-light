@@ -9,11 +9,13 @@ banner:
     link: contact
 feature:
   enable: true
-  title: Something You Need To Know
+  title: Birds-Eye View
   feature_item:
-  - name: Object Oriented
+  - name: As Low As No
     icon: fas fa-object-group
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: Other platforms take fees to invest from the individual investors, the
+      entrepreneurs, or both! Not here. On WeC, funds can be raised with a final fee
+      as low as 0%.
   - name: 24h Service
     icon: fas fa-user-clock
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
