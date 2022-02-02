@@ -29,9 +29,11 @@ feature:
   - name: Universal Suffrage
     icon: fas fa-vote-yea
     content: The community votes on whether or not to support a business concept.
-  - name: Cloud Support
-    icon: fas fa-cloud
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Vetted Opportunities
+    icon: fas fa-search-dollar
+    content: We carefully vet each of our potential listings to protect against fraud
+      or harmful behavior. Out curated options are chosen not only for their safety,
+      but for the promise that they show.
 service:
   enable: true
   service_item:
