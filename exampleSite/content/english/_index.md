@@ -11,6 +11,11 @@ feature:
   enable: true
   title: Birds-Eye View
   feature_item:
+  - name: Strength In Numbers
+    icon: fas fa-users
+    content: Companies appeal to our dedicated, growing community for funding instead
+      of standing in line at a traditional VC firm. Brick by brick, build your empire,
+      with everyone by your side.
   - name: As Low As No
     icon: fas fa-percent
     content: Other platforms take fees to invest from the individual investors, the
@@ -21,12 +26,9 @@ feature:
     content: The entrepreneur posts the funding goal and selects a time frame. If
       the goal is met or exceeded on time, the post moves to settlement. If not, the
       listing ends. There’s no cost to give it a shot.
-  - name: Value For Money
-    icon: fas fa-heart
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: fas fa-tachometer-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Universal Suffrage
+    icon: fas fa-vote-yea
+    content: The community votes on whether or not to support a business concept.
   - name: Cloud Support
     icon: fas fa-cloud
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
