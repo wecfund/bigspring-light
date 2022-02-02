@@ -4,7 +4,7 @@ contact_form_action = "#"
 description = "This is meta description"
 image = "/images/logo-transparency-01.png"
 logo = "/images/logo-transparency-01.png"
-logo_width = "200px"
+logo_width = "400px"
 [cookies]
 button = "I Accept"
 content = "This site uses cookies. By continuing to use this website, you agree to their use."
