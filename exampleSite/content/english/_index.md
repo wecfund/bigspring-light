@@ -12,13 +12,15 @@ feature:
   title: Birds-Eye View
   feature_item:
   - name: As Low As No
-    icon: fas fa-object-group
+    icon: fas fa-percent
     content: Other platforms take fees to invest from the individual investors, the
       entrepreneurs, or both! Not here. On WeC, funds can be raised with a final fee
       as low as 0%.
-  - name: 24h Service
-    icon: fas fa-user-clock
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: All Or Nothing
+    icon: fas fa-business-time
+    content: The entrepreneur posts the funding goal and selects a time frame. If
+      the goal is met or exceeded on time, the post moves to settlement. If not, the
+      listing ends. There’s no cost to give it a shot.
   - name: Value For Money
     icon: fas fa-heart
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
