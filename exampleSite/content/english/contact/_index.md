@@ -1,15 +1,12 @@
 ---
-title: "Contact Us"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
+title: Waitlist
+subtitle: ''
+description: This is meta description
+
 ---
+### Stay Tuned for the Future of Finance!
 
+Interested in following our progress? Join our mailing list for updates on the platform! We'll keep in touch with you as our community gains strength, right up until launch.
 
-### Why you should contact us!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
-
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Phone: (612) 236-6504**
+* **Mail: alpha@wec-fund.com**
