@@ -1,6 +1,6 @@
 baseURL = "https://wecfund.netlify.com"
 disqusShortname = ""
-googleAnalytics = "G-5V9WQJ8350"
+googleAnalytics = "G-2LWJRKN21T"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring-light"
