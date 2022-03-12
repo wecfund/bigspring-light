@@ -1,39 +1,36 @@
 ---
 banner:
-  title: Series A For Everyone
+  title: Let us solve your critical website <br> development challenges
   image: images/banner-art.svg
-  content: Welcome to the world's first crowdsourced venture capital platform.
+  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
+    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
+    laborum officiis necessitatibus
   button:
     enable: true
     label: Contact Us
     link: contact
 feature:
   enable: true
-  title: Birds-Eye View
+  title: Something You Need To Know
   feature_item:
-  - name: Strength In Numbers
-    icon: fas fa-users
-    content: Companies appeal to our dedicated, growing community for funding instead
-      of standing in line at a traditional VC firm. Brick by brick, build your empire,
-      with everyone by your side.
-  - name: As Low As No
-    icon: fas fa-percent
-    content: Other platforms take fees to invest from the individual investors, the
-      entrepreneurs, or both! Not here. On WeC, funds can be raised with a final fee
-      as low as 0%.
-  - name: All Or Nothing
-    icon: fas fa-business-time
-    content: The entrepreneur posts the funding goal and selects a time frame. If
-      the goal is met or exceeded on time, the post moves to settlement. If not, the
-      listing ends. There’s no cost to give it a shot.
-  - name: Universal Suffrage
-    icon: fas fa-vote-yea
-    content: The community votes on whether or not to support a business concept.
-  - name: Vetted Opportunities
-    icon: fas fa-search-dollar
-    content: We carefully vet each of our potential listings to protect against fraud
-      or harmful behavior. Out curated options are chosen not only for their safety,
-      but for the promise that they show.
+  - name: Clean Code
+    icon: fas fa-code
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Object Oriented
+    icon: fas fa-object-group
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: 24h Service
+    icon: fas fa-user-clock
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Value For Money
+    icon: fas fa-heart
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Faster Response
+    icon: fas fa-tachometer-alt
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+  - name: Cloud Support
+    icon: fas fa-cloud
+    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
   service_item:
@@ -103,3 +100,4 @@ call_to_action:
     link: contact
 
 ---
+TEST#1 (WHERE IS THIS)
